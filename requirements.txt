@@ -1,0 +1,7 @@
+streamlit
+torch
+numpy
+pandas
+nltk
+sacrebleu
+rouge-score
